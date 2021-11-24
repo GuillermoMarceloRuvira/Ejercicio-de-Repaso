@@ -12,6 +12,7 @@ public class TV extends Electro{
     private Integer resolucion;
     private Boolean sintonizador;
     private String smarttv;
+    private String tresD;
 
     public TV(Integer resolucion, Boolean sintonizador) {
         this.resolucion = resolucion;
